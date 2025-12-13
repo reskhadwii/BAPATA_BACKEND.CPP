@@ -1,0 +1,5 @@
+1|Mie Lethek|14000|43|Mie khas Bantul siap masak
+2|Pempek|20000|45|Makanan khas Palembang yang berbahan dasar daging ikan. Berat bersih 500 gram.
+3|Martabak HAR Golden|30000|20|Martabak asin yang disiram kuah kari.
+4|Nasi TO|10000|10|Nasi yang dicampur dengan bubuk oncom yang telah digoreng dan dibumbui. Dilengkapi dengan ikan asin, sambal terasi, lalapan, dan tempe goreng
+5|Payung Geulis Tasik|158000|67|Payung berbahan dasar kertas yang dilukis dengan indah

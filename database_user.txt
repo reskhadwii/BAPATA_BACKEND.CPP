@@ -1,0 +1,6 @@
+1|nanana|1234|customer|Yuju GFRIEND|Korea|081452
+2|qt_user|123|customer|User Qt|Jakarta|081234
+3|admin1|admin123|admin|ADMIN BAPATA1|081263
+4|admin2|admin1234|admin|ADMIN BAPATA2|0983635
+5|admin3|admin12345|admin|ADMIN BAPATA3|028376462
+
